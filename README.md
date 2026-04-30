@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> ${\color{Yellow} **—⊹₊⟡⋆ JAYDEN'S\space \ THINGG...**}$ </h1>
+<h1>${\color{Yellow}**—⊹₊⟡⋆ JAYDEN'S\space \ THINGG...**}$</h1>
 
 </div>
 
@@ -11,7 +11,7 @@
 
   <div align="center">
 
-<h2> ${\color{aqua} **⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆**}$ </h2>
+<h2>${\color{aqua}**⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆**}$</h2>
     
 
 </div>
@@ -49,7 +49,7 @@
 
   <div align="center">
 
-<h2> ${\color{aqua} **⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆**}$ </h2> 
+<h2>${\color{aqua} **⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆**}$</h2> 
     
 
 </div>
