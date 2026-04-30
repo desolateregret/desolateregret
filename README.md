@@ -49,7 +49,7 @@
 
   <div align="center">
 
-<h2> ${\color{aqua} **⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆**}$ </h2>
+<h2> ${\color{aqua} **⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆**}$ </h2> 
     
 
 </div>
