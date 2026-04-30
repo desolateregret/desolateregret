@@ -11,7 +11,7 @@
 
   <div align="center">
 
-<h2> ${\color{pink} **⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆**}$ </h2>
+<h2> ${\color{aqua} **⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆**}$ </h2>
     
 
 </div>
@@ -22,6 +22,8 @@
 <img width="250" height="30" alt="Image" src="https://github.com/user-attachments/assets/8fe7ec51-f5d2-4563-a653-c8cdc7f14292" />
 
 <img width="250" height="30" alt="Image" src="https://github.com/user-attachments/assets/1ab25c4b-e616-4928-a991-f4063f4849ca" />
+
+<img width="250" height="30" alt="Image" src="https://github.com/user-attachments/assets/08445122-9208-4684-92f7-cc2c5d552ed5" />
  
  
  **⋮ ⌗ ┆ 𓉸ྀི .  jayden / daniel / mirai**
@@ -47,7 +49,7 @@
 
   <div align="center">
 
-<h2> ${\color{pink} **⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆**}$ </h2>
+<h2> ${\color{aqua} **⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆**}$ </h2>
     
 
 </div>
@@ -58,8 +60,25 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=5BFFDE&center=false&vCenter=true&width=435&lines=I+have+no+misgivings+about+learning+what+is+alien+to+me.&font=Fira%20Code&center=true&width=435&height=50"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=5BFFDE&center=false&vCenter=true&width=435&lines=I+have+no+misgivings+about+learning+what+is+alien+to+me.&font=Fira%20Code&center=true&width=500&height=50"/></a>
+</p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=5BFFDE&width=500&lines=%E2%8E%AF+Hong+Lu%2C+The+House+of+Spiders%3A+The+Ring+Nursefather+%E2%94%80%E2%94%80+.%E2%9C%A6" alt="Typing SVG" /></a>
 </p>
 
 
- 
+**⋆˚✿˖° , discord: https://discord.com/users/1030372231232114698**
+
+**⋆˚✿˖° , tiktok: https://www.tiktok.com/@miraisaitoarigato**
+
+**⋆˚✿˖° , roblox: https://www.roblox.com/users/2605713528/profile**
+
+**⋆˚✿˖° , instagram: https://www.instagram.com/methai.nee/**
+
+**.𖥔 ݁ ˖🛸── .✦ feel free to check them out! have a good day/night ^_^ ♡**
+
+<img width="250" height="30" alt="Image" src="https://github.com/user-attachments/assets/e77b67bb-e498-4295-b971-476de5ab6389" />
+
+<img width="250" height="30" alt="Image" src="https://github.com/user-attachments/assets/65af365e-d299-43da-ad29-51b3a7c1a07d" />
+
+<img width="250" height="30" alt="Image" src="https://github.com/user-attachments/assets/e77b67bb-e498-4295-b971-476de5ab6389" />
