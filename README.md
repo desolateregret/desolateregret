@@ -51,15 +51,14 @@
 
   <div align="center">
 
-<h2>${\color{aqua} **⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆**}$</h2> 
+<h2>${\color{aqua} ⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆}$</h2> 
     
 
 </div>
 
- <p align="center">
-<img width="474" height="314" alt="Image" src="https://github.com/user-attachments/assets/4e9a0da6-93e5-40fb-adf3-b2b9450a7d2f" />
-
-
+<p align="center">
+<img width="574" height="414" alt="Image" src="https://github.com/user-attachments/assets/5f3bef61-89a8-4090-8469-747f03814947" / />
+ </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=5BFFDE&center=false&vCenter=true&width=435&lines=I+have+no+misgivings+about+learning+what+is+alien+to+me.&font=Fira%20Code&center=true&width=500&height=50"/></a>
