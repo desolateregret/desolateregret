@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <h1>${\color{Yellow}**—⊹₊⟡⋆ JAYDEN'S\space \ THINGG...**}$</h1>
@@ -51,35 +49,35 @@
 
   <div align="center">
 
-<h2>${\color{aqua} ⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆}$</h2> 
+<h3>${\color{aqua} ⋆⁺₊⋆\space \ ━━━━⊱༒︎\space \ •\space \ ༒︎⊰━━━━\space \ ⋆⁺₊⋆}$</h3> 
     
 
 </div>
 
 <p align="center">
 <img width="574" height="414" alt="Image" src="https://github.com/user-attachments/assets/5f3bef61-89a8-4090-8469-747f03814947" / />
- </p>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=5BFFDE&center=false&vCenter=true&width=435&lines=I+have+no+misgivings+about+learning+what+is+alien+to+me.&font=Fira%20Code&center=true&width=500&height=50"/></a>
 </p>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=5BFFDE&width=500&lines=%E2%8E%AF+Hong+Lu%2C+The+House+of+Spiders%3A+The+Ring+Nursefather+%E2%94%80%E2%94%80+.%E2%9C%A6" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  <a href="https://discord.com/users/1030372231232114698">⋆˚✿˖° , discord</a>
+ <a href="https://www.tiktok.com/@miraisaitoarigato">⋆˚✿˖° , tiktok</a>
+  <a href="https://www.roblox.com/users/2605713528/profile">⋆˚✿˖° , roblox</a>
+  <a href="https://www.instagram.com/methai.nee/">⋆˚✿˖° , instagram</a>
 
-**⋆˚✿˖° , discord: https://discord.com/users/1030372231232114698**
+<div align="center">
 
-**⋆˚✿˖° , tiktok: https://www.tiktok.com/@miraisaitoarigato**
+<h4> .𖥔 ݁ ˖🛸── .✦ feel free to check them out! have a good day/night ^_^ ♡ </h4>
 
-**⋆˚✿˖° , roblox: https://www.roblox.com/users/2605713528/profile**
+</div> 
 
-**⋆˚✿˖° , instagram: https://www.instagram.com/methai.nee/**
-
-**.𖥔 ݁ ˖🛸── .✦ feel free to check them out! have a good day/night ^_^ ♡**
-
-<img width="250" height="30" alt="Image" src="https://github.com/user-attachments/assets/e77b67bb-e498-4295-b971-476de5ab6389" />
-
-<img width="250" height="30" alt="Image" src="https://github.com/user-attachments/assets/65af365e-d299-43da-ad29-51b3a7c1a07d" />
-
-<img width="250" height="30" alt="Image" src="https://github.com/user-attachments/assets/e77b67bb-e498-4295-b971-476de5ab6389" />
+<p align=center>
+<img width="732" height="55" alt="Image" src="https://github.com/user-attachments/assets/c6537c7a-1ea6-4169-84c4-a3ecb2908155" />
+</p>
